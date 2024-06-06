@@ -1,9 +1,0 @@
-index,type,name,resident,streamed,parentStack
-1,string,,0,0,||assetlist
-2,rawfile,mod.cfg,17,0,|zone_source/core_mod.zone|csv
-3,rawfile,cp_mod.cfg,16,0,|zone_source/core_mod.zone|csv
-4,rawfile,mp_mod.cfg,16,0,|zone_source/core_mod.zone|csv
-5,rawfile,zm_mod.cfg,16,0,|zone_source/core_mod.zone|csv
-6,stringtable,gamedata/stats/zm/zm_statstable.csv,75283,0,|zone_source/core_mod.zone|csv
-7,keyvaluepairs,core_mod,1092,0,||assetlist
-8,assetlist,,96,0,
